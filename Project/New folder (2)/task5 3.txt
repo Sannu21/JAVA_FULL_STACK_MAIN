@@ -1,0 +1,60 @@
+ 
+                  <div id="features" class="text-center" style="margin-top:-100px">
+  <div class="container">
+    <div class="section-title">
+      <h2 style="text-align:center;color:maroon;font-size: 50px">Counseling overview</h2>
+	  <hr>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-4">
+        <div class="features-item">
+            <h3 style="font-family:Britannic">About Bteup </h3>
+          <img src="btup.png" class="img-responsive"  alt="" style="height:300px;width:250px"><p style="color:darkmagenta; font-family:Lucida Calligraphy ">"State Board Of Technical Education and Training was set up in the state in May,1958".
+              The Board conducted its first examination in 1960,for courses of diploma level and also for
+              Draughtsman Certificate Course. The name of the state Board was changed to Board Of Technical
+              Education in 1962. In the same Year, the U.P. Pravidhic Shiksha Adhiniyam - 1962 was enacted 
+              awarding the Board statutory status. In the year 1962, year of its inception,Board held the 
+             examination of about 2500 students, in three major disciplines of Civil, Electrical and Mechanical
+             Engineering at 25 different Centers/Institutions. It has a chairman , vice-chairman and 40 members
+             ,named by the state government .  </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <div class="features-item">
+          <h3 style="font-family:Britannic" >Admission started </h3>
+          <img src="cap.jpg" class="img-responsive" alt="" style="height:300px;width:250px;">
+          <p style="color:darkmagenta;font-family: Lucida Calligraphy">"Board Of Technical Education"2019 Direct admission procedure has been started. It is a state
+              level entrance test conducted by the Joint Entrance Examination Council, Uttar Pradesh. 
+              This exam is also known as
+              bteup (Uttar Pradesh Joint Entrance Examination). UP Polytechnic 2019 exam is conducted for
+              providing admission in engineering, technology, pharmacy and other diploma courses.
+              Various polytechnic institutions affiliated to Board of Technical Education.
+
+</p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <div class="features-item">
+          <h3 style="font-family:Britannic">A Qualified Career Counselor</h3>
+          <img src="cc.jpg" class="img-responsive" alt="" style="height:300px;width:250px;">
+          <p style="color:darkmagenta;font-family: Lucida Calligraphy"> "A genuine Career Counsellor is the essence of right guidance", which is why he/she
+ is the most important element of any career Counselling process. 
+ Career Counselors are experts in psychology, which means that they
+ should hold at least a post-graduate degree in Psychology/Applied Psychology, 
+ and/or a diploma in Counseling Psychology.Career Counselors who give guidance
+ for a particular field, such as engineering, management, hospitality, etc., must
+ be experts in the concerned domain.
+
+"A good Career Counselor is a problem solver", a keen listener and
+ observer, and has sufficient knowledge of various fields to guide you 
+ in your career decisions. .Secretary ,Board of Technical Education ,U.P. is ex-officio member
+             secretary of the Board.
+		</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+                    
+                    <!-- Features Section end -->
